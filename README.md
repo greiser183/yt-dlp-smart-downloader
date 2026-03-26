@@ -102,7 +102,7 @@ www.youtube.com_cookies.txt
 双击：
 
 ```
-yt.bat
+yt-dlp-smart-downloader.bat
 ```
 
 然后：
