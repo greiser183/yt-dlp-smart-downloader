@@ -218,19 +218,6 @@ https://nodejs.org
 
 ---
 
-## ⭐ 项目目标
-
-打造：
-
-> **Windows 最强 yt-dlp 一键下载脚本**
-
-真正做到：
-
-```
-下载 = 输入链接
-```
-
----
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=greiser183/yt-dlp-smart-downloader&type=Date)](https://star-history.com/greiser183/yt-dlp-smart-downloader&Date)
