@@ -81,19 +81,30 @@ www.youtube.com_cookies.txt
 
 推荐浏览器插件：
 
-⭐ Get cookies.txt LOCALLY
+### 如何获取 Cookies
 
-导出：
+推荐浏览器插件：
+
+⭐ **[Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/gihmafigllmhbppdfjnfecimiohcljba)**
+
+安装后：
+
+1️⃣ 打开 YouTube 任意视频页面
+
+2️⃣ 点击插件
+
+3️⃣ 导出：
 
 ```
 youtube.com
 ```
 
-保存为：
+4️⃣ 保存为：
 
 ```
 www.youtube.com_cookies.txt
 ```
+
 
 ---
 
