@@ -4,6 +4,10 @@
 
 无需安装环境 → 无需命令行经验 → 输入视频地址即可下载
 
+> The easiest way to download YouTube videos on Windows.
+
+No install. No command line. Just run.
+
 ---
 
 ## ✨ 项目特色
@@ -91,8 +95,6 @@ www.youtube.com_cookies.txt
 
 ## 🚀 使用方法（超级简单）
 
-### 方法 1（推荐）
-
 双击：
 
 ```
@@ -111,18 +113,6 @@ yt.bat
 ① 自动获取所有清晰度格式
 ② 你选择格式
 ③ 自动下载
-```
-
----
-
-### 方法 2（更快）
-
-直接拖动视频链接到 bat 文件
-
-或命令行：
-
-```
-yt.bat https://youtube.com/xxxx
 ```
 
 ---
