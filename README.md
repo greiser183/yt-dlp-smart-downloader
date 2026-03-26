@@ -77,13 +77,10 @@ www.youtube.com_cookies.txt
 * 防止限速
 * 防止403错误
 
-### 如何获取 Cookies
-
-推荐浏览器插件：
 
 ### 如何获取 Cookies
 
-推荐浏览器插件：
+推荐chrome浏览器插件：
 
 ⭐ **[Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/gihmafigllmhbppdfjnfecimiohcljba)**
 
@@ -93,11 +90,7 @@ www.youtube.com_cookies.txt
 
 2️⃣ 点击插件
 
-3️⃣ 导出：
-
-```
-youtube.com
-```
+3️⃣ 点击 Export（导出）
 
 4️⃣ 保存为：
 
