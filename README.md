@@ -1,4 +1,4 @@
-# 🎬 yt-dlp 智能一键下载工具（Windows BAT）yt-dlp Smart Downloader
+# 🎬 yt-dlp Smart Downloader（Windows BAT）
 
 一个 **真正开箱即用的 yt-dlp 自动化下载脚本**
 
