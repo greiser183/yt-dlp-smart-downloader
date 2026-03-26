@@ -231,6 +231,9 @@ https://nodejs.org
 ```
 
 ---
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=greiser183/yt-dlp-smart-downloader&type=Date)](https://star-history.com/greiser183/yt-dlp-smart-downloader&Date)
 
 ## 📜 License
 
