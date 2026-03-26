@@ -7,6 +7,9 @@
 No install. No command line. Just run.
 
 ---
+## 🖼 Screenshot
+
+![screenshot](screenshot.png)
 
 ## ✨ 项目特色
 
