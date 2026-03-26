@@ -4,8 +4,6 @@
 
 无需安装环境 → 无需命令行经验 → 输入视频地址即可下载
 
-> The easiest way to download YouTube videos on Windows.
-
 No install. No command line. Just run.
 
 ---
@@ -35,9 +33,7 @@ yt-dlp-smart-downloader/
 ├── yt.bat
 ├── www.youtube.com_cookies.txt
 ├── README.md
-├── LICENSE
-└── assets/
-    └── screenshot.png
+└── screenshot.png
 ```
 
 > 其他工具（yt-dlp / ffmpeg / node）
