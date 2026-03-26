@@ -30,10 +30,10 @@ No install. No command line. Just run.
 ```
 yt-dlp-smart-downloader/
 │
-├── yt.bat
+├── yt-dlp-smart-downloader.bat
 ├── www.youtube.com_cookies.txt
-├── README.md
-└── screenshot.png
+├── README.md （非必要）
+└── screenshot.png （非必要）
 ```
 
 > 其他工具（yt-dlp / ffmpeg / node）
