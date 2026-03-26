@@ -30,10 +30,14 @@ No install. No command line. Just run.
 将以下文件放入 **同一文件夹**
 
 ```
-yt-downloader/
+yt-dlp-smart-downloader/
 │
 ├── yt.bat
 ├── www.youtube.com_cookies.txt
+├── README.md
+├── LICENSE
+└── assets/
+    └── screenshot.png
 ```
 
 > 其他工具（yt-dlp / ffmpeg / node）
